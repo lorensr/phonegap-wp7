@@ -16,3 +16,5 @@ NOTIFICATION (VIBRATION): yes
 STORAGE: no
 SMS: yes (trigger request to compose)
 Telephony : yes (trigger request to make a call)
+
+In order to contribute to this project, you must sign and submit the Contributor License Agreement: http://www.phonegap.com/contributor-agreement/
